@@ -1,0 +1,46 @@
+.menu{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-family: 'Arimo';
+  background-color: #000080;
+  color: #eee;
+}
+
+.menu a{
+  color: #eee;
+}
+
+.home {
+  font-family: 'Lobster';
+  text-align: center;
+  background-image: url("images/cove.jpg");
+  background-color: #ccc;
+  color: #eee;
+  height: 500px;
+  padding-top: 30px;
+  background-repeat:no-repeat;
+}
+
+.mainbody {
+  font-family: 'Arimo';
+  background-color: #000080;
+  color: #eee;
+}
+
+.feature-image{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.beach{
+  margin-top: 30px;
+  text-align: center;
+  font-family: 'Lobster';
+  background-color: #000080;
+  color: #ccc;
+  height: 400px;
+  padding-top: 125px;
+  background-repeat:no-repeat;
+}
